@@ -1,0 +1,8 @@
+google-generativeai
+python-dotenv
+pandas
+numpy
+beautifulsoup4
+chromadb
+uvicorn 
+fastapi 
